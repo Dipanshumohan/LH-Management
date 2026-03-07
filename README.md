@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Getting Started with Create React App #email and passwords
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+#email and passwords
+email- guptaaryan380@gmail.com
+password- 1478963
+role- gsec
+
+email- systemadmin@lnmiit.ac.in
+password-852756
+role- systemAdministrator
 
 ## Available Scripts
 
