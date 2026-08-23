@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #email and passwords
-email- guptaaryan380@gmail.com
+email- gsec@lnmiit.ac.in
 password- 1478963
 role- gsec
 
