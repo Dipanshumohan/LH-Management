@@ -1,6 +1,4 @@
 # Getting Started with Create React App 
-
-#email and passwords
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #email and passwords
